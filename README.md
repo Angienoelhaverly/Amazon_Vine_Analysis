@@ -8,5 +8,8 @@
 * Deliverable 2: Determine Bias of Vine Reviews
 
 ## Results
+![totals](https://user-images.githubusercontent.com/73972332/112769731-66c72580-8fd7-11eb-9adf-b77bea8ad1e1.png)
+
+![five star reviews](https://user-images.githubusercontent.com/73972332/112769742-747cab00-8fd7-11eb-8601-994033c8a5ca.png)
 
 ## Analysis
