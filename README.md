@@ -6,6 +6,7 @@
 * Deliverable 1: Perform ETL on Amazon Product Reviews:
     * View the ETL Process in a Google Colaboraty Notebook [Here](https://github.com/Angienoelhaverly/Amazon_Vine_Analysis/blob/main/Amazon_Reviews_ETL.ipynb)
 * Deliverable 2: Determine Bias of Vine Reviews
+    * View the Vine Reviews Bias Analysis [Here](https://github.com/Angienoelhaverly/Amazon_Vine_Analysis/blob/main/Vine_Review_Analysis.ipynb)
 
 ## Results
 ![totals](https://user-images.githubusercontent.com/73972332/112769731-66c72580-8fd7-11eb-9adf-b77bea8ad1e1.png)
