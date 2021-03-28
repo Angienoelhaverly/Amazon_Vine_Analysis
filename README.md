@@ -5,4 +5,6 @@
 **Technical Steps:** Use PySpark to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin. Then PySpark, Pandas, or SQL to determine if there is any bias toward favorable reviews from Vine members in the dataset.
 
 Deliverable 1: Perform ETL on Amazon Product Reviews
+View the ETL Process in a Google Colaboraty Notebook [Here](https://github.com/Angienoelhaverly/Amazon_Vine_Analysis/blob/main/Amazon_Reviews_ETL.ipynb)
+
 Deliverable 2: Determine Bias of Vine Reviews
