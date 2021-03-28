@@ -12,9 +12,14 @@
 * How many Vine reviews and non-Vine reviews were there?
     * 170 Vine Reviews
     * 37,823 Non_Vine Reviews
+    * ![q1](https://user-images.githubusercontent.com/73972332/112770130-fd94e180-8fd9-11eb-82b3-8c39763af392.png)
 * How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
     * 65 Vine Reviews were 5 Stars
     * 20,605 Non_Vine Reviews were 5 Stars
+    * ![q2](https://user-images.githubusercontent.com/73972332/112770134-0dacc100-8fda-11eb-9789-40798935fb7f.png)
 *  What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+    *  38.24% of Vinew Reviews were 5 Stars. 
+    *  54.48% of Non-Vine Reviews were 5 Stars. 
+    *  ![q3](https://user-images.githubusercontent.com/73972332/112770155-2fa64380-8fda-11eb-8f89-d28a0eae36a4.png)
 
 ## Analysis
