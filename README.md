@@ -24,4 +24,6 @@
 
 ## Analysis
 * Is there is any positivity bias for reviews in the Vine program?
-   * The results above for this specific dataset prove that there is in fact, no positivity bias towards 5 star reviews when comparing Vine reviews versus Non-Paid for by Vine Reviews. In fact, the reviews that were not paid for by Vine, had a higher percentage of 5 star ratings than those that were paid for by the Vine program. 
+   * The results above for this specific dataset prove that there is in fact, no positivity bias towards 5 star reviews when comparing Vine reviews versus Non-Paid for by Vine Reviews. 
+   * In fact, the reviews that were not paid for by Vine, had a higher percentage of 5 star ratings than those that were paid for by the Vine program. Only 38.24% of Vinew Reviews were 5 Stars while 54.48% of Non-Vine Reviews were 5 Stars.
+   * An additional analysis that we could do with the dataset would be to compare all star reviews (from 0 to 5) across paid for and unpaid for reviews as well as calculate and compare the average star rating for Vine and non-Vine reviews. 
